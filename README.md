@@ -1,4 +1,4 @@
 CTRL
 ====
 
-reference implementations of an OSC namespace and library for connecting Controlables with Controllers
+reference implementations of an OSC namespace and library for connecting Controllables with Controllers
